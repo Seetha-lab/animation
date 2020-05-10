@@ -1,2 +1,2 @@
-# animation
+# simple animation
 
