@@ -28,15 +28,7 @@ body {
         80%  { background-color: green; transform: rotateX(90deg) rotateY(90deg) rotateZ(-90deg);}
         100% {background-color: orange; transform: rotateX(-90deg) rotateY(-90deg) rotateZ(90deg);} 
      }
-    /* @keyframes rotation {
-        0%  { background-color: red; transform: rotateX(45deg) rotateY(45deg) rotateZ(-45deg);}
-        20%  { background-color: white; transform: rotateX(90deg) rotateY(90deg) rotateZ(-90deg);}
-        40%  { background-color: yellow; transform: rotateX(45deg) rotateY(45deg) rotateZ(-45deg);}
-        60%  { background-color: blue; transform: rotateX(90deg) rotateY(90deg) rotateZ(-90deg);}
-        80%  { background-color: green; transform: rotateX(45deg) rotateY(45deg) rotateZ(-45deg);}
-        100% {background-color: orange; transform: rotateX(90deg) rotateY(90deg) rotateZ(-90deg);} 
-     }*/
-
+    
 
      @keyframes changecolor
 {
